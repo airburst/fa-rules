@@ -1,5 +1,5 @@
 {
-  "name": "typescript-browserify",
+  "name": "typescript",
   "version": "1.0.0",
   "description": "typescript startup",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "start": "watchify app/app.ts -p [ tsify -m --noImplicitAny ] -t sassify -o dist/bundle.js"
   },
   "disable-scripts": {
-    "es6": "mkdir -p dist && browserify main.ts -p [ tsify --noImplicitAny ] -t [babelify --presets [ es2015 ]] > dist/bundle.js"
+    "es6": "browserify main.ts -p [ tsify --noImplicitAny ] -t [babelify --presets [ es2015 ]] > dist/bundle.js"
   },
   "author": "Mark Fairhurst",
   "license": "ISC",

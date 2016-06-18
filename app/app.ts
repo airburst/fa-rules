@@ -1,1 +1,1 @@
-document.getElementById('content').innerHTML = 'No content yet';
+document.getElementById('content').innerHTML = 'test';
