@@ -1,5 +1,4 @@
 import {ASD} from './asd';
-import {disregard} from '../rules/disregard';
 
 export class DataLoader {
 
@@ -9,7 +8,7 @@ export class DataLoader {
     beb: any[];
     isa: any[];
     rva: any[];
-    
+
     constructor() {
         this.asd = ASD;
     }
@@ -20,8 +19,8 @@ export class DataLoader {
                 (item.DurationCode == "PERM") &&
                 (item.ClientDetailsType == "BENEFIT") &&
                 (item.FullInd == "N");
-                //AND EndDate IS EMPTY
+            //AND EndDate IS EMPTY
         });
-    } 
-    
+    }
+
 }

@@ -1,13 +1,28 @@
-import {disregard, DisregardRules} from './disregard';
+import {DataLoader} from '../data/dataloader';
+import {Disregard, DisregardRules} from './disregard';
+import {Input, mockInputs} from './inputs';
 
 export class Rules {
-    
-    private calcData: any;
-    disregardRules: any;
-    
+
+    private dataLoader: any;
+    private data: any;
+    public inputs: Input[] = mockInputs;
+    public disregards: any;
+
     constructor() {
-        // Only map specific rules that we want to expose
-        this.disregardRules = new DisregardRules();
+        this.dataLoader = new DataLoader();
+        this.disregards = new DisregardRules(this.dataLoader);
     }
-    
+
+    calculateDisregards() {
+        return {
+            benefits: this.calculateBenefitsDisregards()
+            //expenses: this.calculateExpensesDisregards();
+        }
+    }
+
+    calculateBenefitsDisregards() {
+        return this.disregards.getBenefitsDisregards(this.inputs);
+    }
+
 };

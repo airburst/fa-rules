@@ -15,7 +15,7 @@ export const arrayToString = (array: any[]): string => {
 }
 
 export const debug = (text: any): void => {
-    document.getElementById('debug').innerText = stringify(text);
+    document.getElementById('debug').innerText += stringify(text) + '\n';
 };
 
 const stringify = (text: any) => {
