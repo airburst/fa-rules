@@ -1,0 +1,890 @@
+[
+    {
+        "Seq": 1,
+        "Domain": "BENEFIT BAND",
+        "Code": "B",
+        "Description": "Basic Rate",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 2,
+        "Domain": "BENEFIT BAND",
+        "Code": "E",
+        "Description": "Enhanced",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 3,
+        "Domain": "BENEFIT BAND",
+        "Code": "H",
+        "Description": "Higher Rate",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 4,
+        "Domain": "BENEFIT BAND",
+        "Code": "LT",
+        "Description": "Long Term Rate",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 5,
+        "Domain": "BENEFIT BAND",
+        "Code": "L",
+        "Description": "Lower Rate",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 6,
+        "Domain": "BENEFIT BAND",
+        "Code": "MW",
+        "Description": "Married Womens Rate",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 7,
+        "Domain": "BENEFIT BAND",
+        "Code": "M",
+        "Description": "Middle Rate",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 8,
+        "Domain": "BENEFIT BAND",
+        "Code": "O",
+        "Description": "One Rate",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 9,
+        "Domain": "BENEFIT BAND",
+        "Code": "P",
+        "Description": "Pension Age Rate",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 10,
+        "Domain": "BENEFIT BAND",
+        "Code": "S",
+        "Description": "Standard",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 11,
+        "Domain": "BENEFIT BAND",
+        "Code": "V",
+        "Description": "Variable Rate",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 12,
+        "Domain": "BENEFIT TYPE",
+        "Code": "AFC",
+        "Description": "Armed Forces Compensation",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 13,
+        "Domain": "BENEFIT TYPE",
+        "Code": "AA",
+        "Description": "Attendance Allowance",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 14,
+        "Domain": "BENEFIT TYPE",
+        "Code": "AAD",
+        "Description": "Attendance Allowance (with disregard)",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 15,
+        "Domain": "BENEFIT TYPE",
+        "Code": "AAP",
+        "Description": "Attendance Allowance Partner",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 16,
+        "Domain": "BENEFIT TYPE",
+        "Code": "BA",
+        "Description": "Bereavement Allowance",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 17,
+        "Domain": "BENEFIT TYPE",
+        "Code": "ICA",
+        "Description": "Carers Allowance",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 18,
+        "Domain": "BENEFIT TYPE",
+        "Code": "CB",
+        "Description": "Child Benefit",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 19,
+        "Domain": "BENEFIT TYPE",
+        "Code": "CTB",
+        "Description": "Council Tax Benefit",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 20,
+        "Domain": "BENEFIT TYPE",
+        "Code": "DLA(C)D",
+        "Description": "DLA Care (no night time care)",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 21,
+        "Domain": "BENEFIT TYPE",
+        "Code": "DLA(C)",
+        "Description": "DLA Care Component",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 22,
+        "Domain": "BENEFIT TYPE",
+        "Code": "DLACP",
+        "Description": "DLA Care Partner",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 23,
+        "Domain": "BENEFIT TYPE",
+        "Code": "DLA(M)",
+        "Description": "DLA Mobility Component",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 24,
+        "Domain": "BENEFIT TYPE",
+        "Code": "ESA",
+        "Description": "Employment & Support Allowance",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 25,
+        "Domain": "BENEFIT TYPE",
+        "Code": "ESAC",
+        "Description": "Employment & Support Allowance - Couple",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 26,
+        "Domain": "BENEFIT TYPE",
+        "Code": "HB",
+        "Description": "Housing Benefit",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 27,
+        "Domain": "BENEFIT TYPE",
+        "Code": "IB",
+        "Description": "Incapacity Benefit",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 28,
+        "Domain": "BENEFIT TYPE",
+        "Code": "IS",
+        "Description": "Income Support",
+        "Source": "IS",
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 29,
+        "Domain": "BENEFIT TYPE",
+        "Code": "ISC",
+        "Description": "Income Support Couple",
+        "Source": "IS",
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 30,
+        "Domain": "BENEFIT TYPE",
+        "Code": "ISHC",
+        "Description": "Income Support Housing Costs",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 31,
+        "Domain": "BENEFIT TYPE",
+        "Code": "IIDB",
+        "Description": "Industrial Injuries Disablement",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 32,
+        "Domain": "BENEFIT TYPE",
+        "Code": "JSA",
+        "Description": "Job Seekers Allowance",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 33,
+        "Domain": "BENEFIT TYPE",
+        "Code": "MA",
+        "Description": "Maternity Allowance",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 34,
+        "Domain": "BENEFIT TYPE",
+        "Code": "PIPDL",
+        "Description": "PIP Daily Living",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 35,
+        "Domain": "BENEFIT TYPE",
+        "Code": "PIPDLP",
+        "Description": "PIP Daily Living Partner",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 36,
+        "Domain": "BENEFIT TYPE",
+        "Code": "PIPM",
+        "Description": "PIP Mobility",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 37,
+        "Domain": "BENEFIT TYPE",
+        "Code": "PGCS",
+        "Description": "Pension Guarantee Credit",
+        "Source": "PGC",
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 38,
+        "Domain": "BENEFIT TYPE",
+        "Code": "PGCC",
+        "Description": "Pension Guarantee Credit - Couple",
+        "Source": "PGC",
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 39,
+        "Domain": "BENEFIT TYPE",
+        "Code": "PSCS",
+        "Description": "Pension Savings Credit",
+        "Source": "PSC",
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 40,
+        "Domain": "BENEFIT TYPE",
+        "Code": "PSCC",
+        "Description": "Pension Savings Credit - Couple",
+        "Source": "PSC",
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 41,
+        "Domain": "BENEFIT TYPE",
+        "Code": "SDA",
+        "Description": "Severe Disablement Allowance",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 42,
+        "Domain": "BENEFIT TYPE",
+        "Code": "RP",
+        "Description": "State Retirement Pension",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 43,
+        "Domain": "BENEFIT TYPE",
+        "Code": "RPP",
+        "Description": "State Retirement Pension - Partner",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 44,
+        "Domain": "BENEFIT TYPE",
+        "Code": "SMP",
+        "Description": "Statutory Maternity Pay",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 45,
+        "Domain": "BENEFIT TYPE",
+        "Code": "SSP",
+        "Description": "Statutory Sick Pay",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 46,
+        "Domain": "BENEFIT TYPE",
+        "Code": "UC",
+        "Description": "Universal Credit",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 47,
+        "Domain": "BENEFIT TYPE",
+        "Code": "UCC",
+        "Description": "Universal Credit - Couple",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 48,
+        "Domain": "BENEFIT TYPE",
+        "Code": "WARPEN",
+        "Description": "War Pension",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 49,
+        "Domain": "BENEFIT TYPE",
+        "Code": "WWP",
+        "Description": "War Widows Pension",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 50,
+        "Domain": "BENEFIT TYPE",
+        "Code": "WWSP",
+        "Description": "War Widows Special Payments",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 51,
+        "Domain": "BENEFIT TYPE",
+        "Code": "WP",
+        "Description": "Widows Benefit",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 52,
+        "Domain": "BENEFIT TYPE",
+        "Code": "WMA",
+        "Description": "Widowed Mothers Allowance",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 53,
+        "Domain": "BENEFIT TYPE",
+        "Code": "WTC",
+        "Description": "Working Tax Credit",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 54,
+        "Domain": "BENEFIT TYPE",
+        "Code": "AD1",
+        "Description": "Basic net weekly pay",
+        "Source": null,
+        "Del_Ind": "Y"
+    },
+    {
+        "Seq": 55,
+        "Domain": "BENEFIT TYPE",
+        "Code": "AD2",
+        "Description": "drawings (if self employed)",
+        "Source": null,
+        "Del_Ind": "Y"
+    },
+    {
+        "Seq": 56,
+        "Domain": "CAPITAL TYPE",
+        "Code": "ADAPT",
+        "Description": "Amount Setaside for Adaptation",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 57,
+        "Domain": "CAPITAL TYPE",
+        "Code": "BANK",
+        "Description": "Bank / Building Society 1",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 58,
+        "Domain": "CAPITAL TYPE",
+        "Code": "BANK2",
+        "Description": "Bank / Building Society 2",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 59,
+        "Domain": "CAPITAL TYPE",
+        "Code": "BANK3",
+        "Description": "Bank / Building Society 3",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 60,
+        "Domain": "CAPITAL TYPE",
+        "Code": "BANK4",
+        "Description": "Bank / Building Society 4",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 61,
+        "Domain": "CAPITAL TYPE",
+        "Code": "BUILD",
+        "Description": "Bank / Building Society 5",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 62,
+        "Domain": "CAPITAL TYPE",
+        "Code": "BANKJ",
+        "Description": "Bank /Building Society 1 Joint",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 63,
+        "Domain": "CAPITAL TYPE",
+        "Code": "BANK2J",
+        "Description": "Bank /Building Society 2 Joint",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 64,
+        "Domain": "CAPITAL TYPE",
+        "Code": "JBANK1",
+        "Description": "Bank /Building Society 3 Joint",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 65,
+        "Domain": "CAPITAL TYPE",
+        "Code": "CASH",
+        "Description": "Cash",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 66,
+        "Domain": "CAPITAL TYPE",
+        "Code": "UNIT",
+        "Description": "Inv. Trusts / TESSA / ISA 1 (10% disregard)",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 67,
+        "Domain": "CAPITAL TYPE",
+        "Code": "UNIT2",
+        "Description": "Inv. Trusts / TESSA / ISA 2 (10% disregard)",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 68,
+        "Domain": "CAPITAL TYPE",
+        "Code": "NSC",
+        "Description": "National Saving Certificates",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 69,
+        "Domain": "CAPITAL TYPE",
+        "Code": "POST OFF",
+        "Description": "National Savings Bank",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 70,
+        "Domain": "CAPITAL TYPE",
+        "Code": "OTHER",
+        "Description": "Other",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 71,
+        "Domain": "CAPITAL TYPE",
+        "Code": "PB",
+        "Description": "Premium Bonds",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 72,
+        "Domain": "CAPITAL TYPE",
+        "Code": "SHARES1",
+        "Description": "Stocks & Shares (10% disregard)",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 73,
+        "Domain": "DURATION TYPE",
+        "Code": "3MNTH",
+        "Description": "First 12 weeks permanent residence",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 74,
+        "Domain": "DURATION TYPE",
+        "Code": "NONRES",
+        "Description": "Non-Residential charging",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 75,
+        "Domain": "DURATION TYPE",
+        "Code": "PERM",
+        "Description": "Permanent Residence",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 76,
+        "Domain": "DURATION TYPE",
+        "Code": "RESP",
+        "Description": "Respite Care",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 77,
+        "Domain": "DURATION TYPE",
+        "Code": "TEMP",
+        "Description": "Temporary Residence",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 78,
+        "Domain": "DURATION TYPE",
+        "Code": "ADOPT",
+        "Description": "adoption rules",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 79,
+        "Domain": "EXPENDITURE TYPE",
+        "Code": "CARE",
+        "Description": "Care purchased privately",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 80,
+        "Domain": "EXPENDITURE TYPE",
+        "Code": "CHILD",
+        "Description": "Childrens Allowance",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 81,
+        "Domain": "EXPENDITURE TYPE",
+        "Code": "A6",
+        "Description": "Core regular family exp. couple + 2 child (304.75)",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 82,
+        "Domain": "EXPENDITURE TYPE",
+        "Code": "AD5",
+        "Description": "Council Tax",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 83,
+        "Domain": "EXPENDITURE TYPE",
+        "Code": "DREDIET",
+        "Description": "DRE - Dietary Needs",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 84,
+        "Domain": "EXPENDITURE TYPE",
+        "Code": "DREEQUIP",
+        "Description": "DRE - Equipment Costs",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 85,
+        "Domain": "EXPENDITURE TYPE",
+        "Code": "DREGARD",
+        "Description": "DRE - Gardening",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 86,
+        "Domain": "EXPENDITURE TYPE",
+        "Code": "DREGEN",
+        "Description": "DRE - General",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 87,
+        "Domain": "EXPENDITURE TYPE",
+        "Code": "DRELAUND",
+        "Description": "DRE - Laundry (collar)",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 88,
+        "Domain": "EXPENDITURE TYPE",
+        "Code": "HOMECMMT",
+        "Description": "Home Commitments",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 89,
+        "Domain": "EXPENDITURE TYPE",
+        "Code": "AD4",
+        "Description": "Mortgage Payments",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 90,
+        "Domain": "EXPENDITURE TYPE",
+        "Code": "PARTNER",
+        "Description": "To ensure MIG for partner at home",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 91,
+        "Domain": "EXPENDITURE TYPE",
+        "Code": "LIABLE",
+        "Description": "Liable Relatives",
+        "Source": null,
+        "Del_Ind": "Y"
+    },
+    {
+        "Seq": 92,
+        "Domain": "EXPENDITURE TYPE",
+        "Code": "PSCTOP",
+        "Description": "PSC Addl Disregard (not reqd with PSC calc)",
+        "Source": null,
+        "Del_Ind": "Y"
+    },
+    {
+        "Seq": 93,
+        "Domain": "OTHERINC TYPE",
+        "Code": "ANNU",
+        "Description": "Annuity",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 94,
+        "Domain": "OTHERINC TYPE",
+        "Code": "AD1",
+        "Description": "Basic net weekly pay",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 95,
+        "Domain": "OTHERINC TYPE",
+        "Code": "CHARFULL",
+        "Description": "Charitable Payment (full disregard)",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 96,
+        "Domain": "OTHERINC TYPE",
+        "Code": "CHAR",
+        "Description": "Charitable Payment (£20 disregard)",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 97,
+        "Domain": "OTHERINC TYPE",
+        "Code": "C.L.PEN",
+        "Description": "Civil List Pension",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 98,
+        "Domain": "OTHERINC TYPE",
+        "Code": "AD2",
+        "Description": "Drawings if self employed",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 99,
+        "Domain": "OTHERINC TYPE",
+        "Code": "EARN",
+        "Description": "Earnings",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 100,
+        "Domain": "OTHERINC TYPE",
+        "Code": "SUBLET",
+        "Description": "Expenses for Subtenants",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 101,
+        "Domain": "OTHERINC TYPE",
+        "Code": "INCHR",
+        "Description": "Higher Earnings Disregard",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 102,
+        "Domain": "OTHERINC TYPE",
+        "Code": "HOMEINC",
+        "Description": "Home Income Plans",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 103,
+        "Domain": "OTHERINC TYPE",
+        "Code": "SUPANN",
+        "Description": "Occupational Pension",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 104,
+        "Domain": "OTHERINC TYPE",
+        "Code": "SUPANN2",
+        "Description": "Occupational Pension (50% disregard)",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 105,
+        "Domain": "OTHERINC TYPE",
+        "Code": "SUPANNP",
+        "Description": "Occupational Pension Partner",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 106,
+        "Domain": "OTHERINC TYPE",
+        "Code": "RENTAL",
+        "Description": "Rental Income",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 107,
+        "Domain": "OTHERINC TYPE",
+        "Code": "INCLW",
+        "Description": "Standard Earnings Disregard",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 108,
+        "Domain": "OTHERINC TYPE",
+        "Code": "TOPUP",
+        "Description": "Top Up paid by third party",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 109,
+        "Domain": "OTHERINC TYPE",
+        "Code": "T.FUND",
+        "Description": "Trust Fund",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 110,
+        "Domain": "OTHERINC TYPE",
+        "Code": "AD3",
+        "Description": "income from capital savings and investments",
+        "Source": null,
+        "Del_Ind": "N"
+    },
+    {
+        "Seq": 111,
+        "Domain": "OTHERINC TYPE",
+        "Code": "SUBLET:H",
+        "Description": "Sublet with heating",
+        "Source": null,
+        "Del_Ind": "Y"
+    }
+]

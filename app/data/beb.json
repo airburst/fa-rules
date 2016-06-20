@@ -1,0 +1,452 @@
+[
+    {
+        "Seq": 1,
+        "BenefitCode": "AFC",
+        "BenefitDescription": "Armed Forces Compensation",
+        "BenefitBandCode": "V",
+        "BenefitBandDescription": "Variable Rate",
+        "StartDate": "06/04/2015",
+        "EndDate": null,
+        "Value": null
+    },
+    {
+        "Seq": 2,
+        "BenefitCode": "AA",
+        "BenefitDescription": "Attendance Allowance",
+        "BenefitBandCode": "H",
+        "BenefitBandDescription": "Higher Rate",
+        "StartDate": "06/04/2015",
+        "EndDate": null,
+        "Value": 82.3
+    },
+    {
+        "Seq": 3,
+        "BenefitCode": "AA",
+        "BenefitDescription": "Attendance Allowance",
+        "BenefitBandCode": "L",
+        "BenefitBandDescription": "Lower Rate",
+        "StartDate": "06/04/2015",
+        "EndDate": null,
+        "Value": 55.1
+    },
+    {
+        "Seq": 4,
+        "BenefitCode": "AAD",
+        "BenefitDescription": "Attendance Allowance (with disregard)",
+        "BenefitBandCode": "H",
+        "BenefitBandDescription": "Higher Rate",
+        "StartDate": "06/04/2015",
+        "EndDate": null,
+        "Value": 82.3
+    },
+    {
+        "Seq": 5,
+        "BenefitCode": "BA",
+        "BenefitDescription": "Bereavement Allowance",
+        "BenefitBandCode": "V",
+        "BenefitBandDescription": "Variable Rate",
+        "StartDate": "06/04/2015",
+        "EndDate": null,
+        "Value": null
+    },
+    {
+        "Seq": 6,
+        "BenefitCode": "ICA",
+        "BenefitDescription": "Carers Allowance",
+        "BenefitBandCode": "B",
+        "BenefitBandDescription": "Basic Rate",
+        "StartDate": "06/04/2015",
+        "EndDate": null,
+        "Value": 62.1
+    },
+    {
+        "Seq": 7,
+        "BenefitCode": "CB",
+        "BenefitDescription": "Child Benefit",
+        "BenefitBandCode": "V",
+        "BenefitBandDescription": "Variable Rate",
+        "StartDate": "05/04/2015",
+        "EndDate": null,
+        "Value": null
+    },
+    {
+        "Seq": 8,
+        "BenefitCode": "CTB",
+        "BenefitDescription": "Council Tax Benefit",
+        "BenefitBandCode": "V",
+        "BenefitBandDescription": "Variable Rate",
+        "StartDate": "06/04/2015",
+        "EndDate": null,
+        "Value": null
+    },
+    {
+        "Seq": 9,
+        "BenefitCode": "DLA(C)D",
+        "BenefitDescription": "DLA Care (no night time care)",
+        "BenefitBandCode": "H",
+        "BenefitBandDescription": "Higher Rate",
+        "StartDate": "06/04/2015",
+        "EndDate": null,
+        "Value": 82.3
+    },
+    {
+        "Seq": 10,
+        "BenefitCode": "DLA(C)",
+        "BenefitDescription": "DLA Care Component",
+        "BenefitBandCode": "H",
+        "BenefitBandDescription": "Higher Rate",
+        "StartDate": "06/04/2015",
+        "EndDate": null,
+        "Value": 82.3
+    },
+    {
+        "Seq": 11,
+        "BenefitCode": "DLA(C)",
+        "BenefitDescription": "DLA Care Component",
+        "BenefitBandCode": "L",
+        "BenefitBandDescription": "Lower Rate",
+        "StartDate": "06/04/2015",
+        "EndDate": null,
+        "Value": 21.8
+    },
+    {
+        "Seq": 12,
+        "BenefitCode": "DLA(C)",
+        "BenefitDescription": "DLA Care Component",
+        "BenefitBandCode": "M",
+        "BenefitBandDescription": "Middle Rate",
+        "StartDate": "06/04/2015",
+        "EndDate": null,
+        "Value": 55.1
+    },
+    {
+        "Seq": 13,
+        "BenefitCode": "DLACP",
+        "BenefitDescription": "DLA Care Partner",
+        "BenefitBandCode": "H",
+        "BenefitBandDescription": "Higher Rate",
+        "StartDate": "06/04/2015",
+        "EndDate": null,
+        "Value": 82.3
+    },
+    {
+        "Seq": 14,
+        "BenefitCode": "DLA(M)",
+        "BenefitDescription": "DLA Mobility Component",
+        "BenefitBandCode": "H",
+        "BenefitBandDescription": "Higher Rate",
+        "StartDate": "06/04/2015",
+        "EndDate": null,
+        "Value": 57.45
+    },
+    {
+        "Seq": 15,
+        "BenefitCode": "DLA(M)",
+        "BenefitDescription": "DLA Mobility Component",
+        "BenefitBandCode": "L",
+        "BenefitBandDescription": "Lower Rate",
+        "StartDate": "06/04/2015",
+        "EndDate": null,
+        "Value": 21.8
+    },
+    {
+        "Seq": 16,
+        "BenefitCode": "ESA",
+        "BenefitDescription": "Employment & Support Allowance",
+        "BenefitBandCode": "V",
+        "BenefitBandDescription": "Variable Rate",
+        "StartDate": "06/04/2015",
+        "EndDate": null,
+        "Value": null
+    },
+    {
+        "Seq": 17,
+        "BenefitCode": "ESAC",
+        "BenefitDescription": "Employment & Support Allowance - Couple",
+        "BenefitBandCode": "V",
+        "BenefitBandDescription": "Variable Rate",
+        "StartDate": "06/04/2015",
+        "EndDate": null,
+        "Value": null
+    },
+    {
+        "Seq": 18,
+        "BenefitCode": "HB",
+        "BenefitDescription": "Housing Benefit",
+        "BenefitBandCode": "V",
+        "BenefitBandDescription": "Variable Rate",
+        "StartDate": "06/04/2015",
+        "EndDate": null,
+        "Value": null
+    },
+    {
+        "Seq": 19,
+        "BenefitCode": "IB",
+        "BenefitDescription": "Incapacity Benefit",
+        "BenefitBandCode": "V",
+        "BenefitBandDescription": "Variable Rate",
+        "StartDate": "06/04/2015",
+        "EndDate": null,
+        "Value": null
+    },
+    {
+        "Seq": 20,
+        "BenefitCode": "IS",
+        "BenefitDescription": "Income Support",
+        "BenefitBandCode": "V",
+        "BenefitBandDescription": "Variable Rate",
+        "StartDate": "06/04/2015",
+        "EndDate": null,
+        "Value": null
+    },
+    {
+        "Seq": 21,
+        "BenefitCode": "ISC",
+        "BenefitDescription": "Income Support Couple",
+        "BenefitBandCode": "V",
+        "BenefitBandDescription": "Variable Rate",
+        "StartDate": "06/04/2015",
+        "EndDate": null,
+        "Value": null
+    },
+    {
+        "Seq": 22,
+        "BenefitCode": "ISHC",
+        "BenefitDescription": "Income Support Housing Costs",
+        "BenefitBandCode": "V",
+        "BenefitBandDescription": "Variable Rate",
+        "StartDate": "06/04/2015",
+        "EndDate": null,
+        "Value": null
+    },
+    {
+        "Seq": 23,
+        "BenefitCode": "IIDB",
+        "BenefitDescription": "Industrial Injuries Disablement",
+        "BenefitBandCode": "V",
+        "BenefitBandDescription": "Variable Rate",
+        "StartDate": "06/04/2015",
+        "EndDate": null,
+        "Value": null
+    },
+    {
+        "Seq": 24,
+        "BenefitCode": "JSA",
+        "BenefitDescription": "Job Seekers Allowance",
+        "BenefitBandCode": "V",
+        "BenefitBandDescription": "Variable Rate",
+        "StartDate": "06/04/2015",
+        "EndDate": null,
+        "Value": null
+    },
+    {
+        "Seq": 25,
+        "BenefitCode": "MA",
+        "BenefitDescription": "Maternity Allowance",
+        "BenefitBandCode": "V",
+        "BenefitBandDescription": "Variable Rate",
+        "StartDate": "06/04/2015",
+        "EndDate": null,
+        "Value": null
+    },
+    {
+        "Seq": 26,
+        "BenefitCode": "PIPDL",
+        "BenefitDescription": "PIP Daily Living",
+        "BenefitBandCode": "E",
+        "BenefitBandDescription": "Enhanced",
+        "StartDate": "06/04/2015",
+        "EndDate": null,
+        "Value": 82.3
+    },
+    {
+        "Seq": 27,
+        "BenefitCode": "PIPDL",
+        "BenefitDescription": "PIP Daily Living",
+        "BenefitBandCode": "S",
+        "BenefitBandDescription": "Standard",
+        "StartDate": "06/04/2015",
+        "EndDate": null,
+        "Value": 55.1
+    },
+    {
+        "Seq": 28,
+        "BenefitCode": "PIPM",
+        "BenefitDescription": "PIP Mobility",
+        "BenefitBandCode": "E",
+        "BenefitBandDescription": "Enhanced",
+        "StartDate": "06/04/2015",
+        "EndDate": null,
+        "Value": 57.45
+    },
+    {
+        "Seq": 29,
+        "BenefitCode": "PIPM",
+        "BenefitDescription": "PIP Mobility",
+        "BenefitBandCode": "S",
+        "BenefitBandDescription": "Standard",
+        "StartDate": "06/04/2015",
+        "EndDate": null,
+        "Value": 21.8
+    },
+    {
+        "Seq": 30,
+        "BenefitCode": "PGCS",
+        "BenefitDescription": "Pension Guarantee Credit",
+        "BenefitBandCode": "V",
+        "BenefitBandDescription": "Variable Rate",
+        "StartDate": "06/04/2015",
+        "EndDate": null,
+        "Value": null
+    },
+    {
+        "Seq": 31,
+        "BenefitCode": "PGCC",
+        "BenefitDescription": "Pension Guarantee Credit - Couple",
+        "BenefitBandCode": "V",
+        "BenefitBandDescription": "Variable Rate",
+        "StartDate": "06/04/2015",
+        "EndDate": null,
+        "Value": null
+    },
+    {
+        "Seq": 32,
+        "BenefitCode": "PSCS",
+        "BenefitDescription": "Pension Savings Credit",
+        "BenefitBandCode": "V",
+        "BenefitBandDescription": "Variable Rate",
+        "StartDate": "06/04/2015",
+        "EndDate": null,
+        "Value": null
+    },
+    {
+        "Seq": 33,
+        "BenefitCode": "PSCC",
+        "BenefitDescription": "Pension Savings Credit - Couple",
+        "BenefitBandCode": "V",
+        "BenefitBandDescription": "Variable Rate",
+        "StartDate": "06/04/2015",
+        "EndDate": null,
+        "Value": null
+    },
+    {
+        "Seq": 34,
+        "BenefitCode": "SDA",
+        "BenefitDescription": "Severe Disablement Allowance",
+        "BenefitBandCode": "V",
+        "BenefitBandDescription": "Variable Rate",
+        "StartDate": "06/04/2015",
+        "EndDate": null,
+        "Value": null
+    },
+    {
+        "Seq": 35,
+        "BenefitCode": "RP",
+        "BenefitDescription": "State Retirement Pension",
+        "BenefitBandCode": "V",
+        "BenefitBandDescription": "Variable Rate",
+        "StartDate": "06/04/2015",
+        "EndDate": null,
+        "Value": null
+    },
+    {
+        "Seq": 36,
+        "BenefitCode": "RPP",
+        "BenefitDescription": "State Retirement Pension - Partner",
+        "BenefitBandCode": "V",
+        "BenefitBandDescription": "Variable Rate",
+        "StartDate": "06/04/2015",
+        "EndDate": null,
+        "Value": null
+    },
+    {
+        "Seq": 37,
+        "BenefitCode": "SMP",
+        "BenefitDescription": "Statutory Maternity Pay",
+        "BenefitBandCode": "V",
+        "BenefitBandDescription": "Variable Rate",
+        "StartDate": "06/04/2015",
+        "EndDate": null,
+        "Value": null
+    },
+    {
+        "Seq": 38,
+        "BenefitCode": "SSP",
+        "BenefitDescription": "Statutory Sick Pay",
+        "BenefitBandCode": "V",
+        "BenefitBandDescription": "Variable Rate",
+        "StartDate": "06/04/2015",
+        "EndDate": null,
+        "Value": null
+    },
+    {
+        "Seq": 39,
+        "BenefitCode": "UC",
+        "BenefitDescription": "Universal Credit",
+        "BenefitBandCode": "V",
+        "BenefitBandDescription": "Variable Rate",
+        "StartDate": "06/04/2015",
+        "EndDate": null,
+        "Value": null
+    },
+    {
+        "Seq": 40,
+        "BenefitCode": "UCC",
+        "BenefitDescription": "Universal Credit - Couple",
+        "BenefitBandCode": "V",
+        "BenefitBandDescription": "Variable Rate",
+        "StartDate": "06/04/2015",
+        "EndDate": null,
+        "Value": null
+    },
+    {
+        "Seq": 41,
+        "BenefitCode": "WARPEN",
+        "BenefitDescription": "War Pension",
+        "BenefitBandCode": "V",
+        "BenefitBandDescription": "Variable Rate",
+        "StartDate": "06/04/2015",
+        "EndDate": null,
+        "Value": null
+    },
+    {
+        "Seq": 42,
+        "BenefitCode": "WWP",
+        "BenefitDescription": "War Widows Pension",
+        "BenefitBandCode": "V",
+        "BenefitBandDescription": "Variable Rate",
+        "StartDate": "06/04/2015",
+        "EndDate": null,
+        "Value": null
+    },
+    {
+        "Seq": 43,
+        "BenefitCode": "WWSP",
+        "BenefitDescription": "War Widows Special Payments",
+        "BenefitBandCode": "V",
+        "BenefitBandDescription": "Variable Rate",
+        "StartDate": "06/04/2015",
+        "EndDate": null,
+        "Value": null
+    },
+    {
+        "Seq": 44,
+        "BenefitCode": "WP",
+        "BenefitDescription": "Widows Benefit",
+        "BenefitBandCode": "V",
+        "BenefitBandDescription": "Variable Rate",
+        "StartDate": "06/04/2015",
+        "EndDate": null,
+        "Value": null
+    },
+    {
+        "Seq": 45,
+        "BenefitCode": "WTC",
+        "BenefitDescription": "Working Tax Credit",
+        "BenefitBandCode": "V",
+        "BenefitBandDescription": "Variable Rate",
+        "StartDate": "06/04/2015",
+        "EndDate": null,
+        "Value": null
+    }
+]
