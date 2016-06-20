@@ -2532,7 +2532,7 @@
         "DisregardGroup": null,
         "DisregardAmount": null,
         "CollarAmount": null,
-        "DREFlag": Y
+        "DREFlag": "Y"
     },
     {
         "Seq": 196,
@@ -2545,7 +2545,7 @@
         "DisregardGroup": null,
         "DisregardAmount": 5,
         "CollarAmount": null,
-        "DREFlag": Y
+        "DREFlag": "Y"
     },
     {
         "Seq": 197,
@@ -2558,7 +2558,7 @@
         "DisregardGroup": null,
         "DisregardAmount": null,
         "CollarAmount": null,
-        "DREFlag": Y
+        "DREFlag": "Y"
     },
     {
         "Seq": 198,
@@ -2571,7 +2571,7 @@
         "DisregardGroup": null,
         "DisregardAmount": 10,
         "CollarAmount": 5,
-        "DREFlag": Y
+        "DREFlag": "Y"
     },
     {
         "Seq": 199,
@@ -2844,7 +2844,7 @@
         "DisregardGroup": null,
         "DisregardAmount": 20,
         "CollarAmount": 5,
-        "DREFlag": Y
+        "DREFlag": "Y"
     },
     {
         "Seq": 220,
@@ -3000,7 +3000,7 @@
         "DisregardGroup": null,
         "DisregardAmount": 20,
         "CollarAmount": null,
-        "DREFlag": Y
+        "DREFlag": "Y"
     },
     {
         "Seq": 232,
@@ -3013,7 +3013,7 @@
         "DisregardGroup": null,
         "DisregardAmount": 5,
         "CollarAmount": null,
-        "DREFlag": Y
+        "DREFlag": "Y"
     },
     {
         "Seq": 233,
@@ -3026,7 +3026,7 @@
         "DisregardGroup": null,
         "DisregardAmount": null,
         "CollarAmount": null,
-        "DREFlag": Y
+        "DREFlag": "Y"
     },
     {
         "Seq": 234,
@@ -3039,7 +3039,7 @@
         "DisregardGroup": null,
         "DisregardAmount": 20,
         "CollarAmount": 10,
-        "DREFlag": Y
+        "DREFlag": "Y"
     },
     {
         "Seq": 235,
