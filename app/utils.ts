@@ -13,3 +13,11 @@ export const arrayToString = (array: any[]): string => {
     }
     return text;
 }
+
+export const debug = (text: any): void => {
+    document.getElementById('debug').innerText = stringify(text);
+};
+
+const stringify = (text: any) => {
+    return (typeof (text) === 'object') ? JSON.stringify(text) : text;
+};

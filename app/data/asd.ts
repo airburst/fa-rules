@@ -1,4 +1,4 @@
-[
+export const ASD: any[] = [
     {
         "Seq": 1,
         "AsrId": "ADOPTION",
